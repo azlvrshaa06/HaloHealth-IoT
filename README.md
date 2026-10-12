@@ -1,4 +1,4 @@
-# HaloHealth Oximeter Kit
+# HaloHealth Medical Kit Box
 
 A two-unit IoT pulse oximeter that measures heart rate (BPM) and blood oxygen saturation (SpO2), shows the result on a touchscreen kit box, and stores every confirmed measurement as a timestamped history in Firebase Firestore for the HaloHealth mobile app. The firmware is written for two ESP32 boards (ESP32-C3 and ESP32-S3) with the Arduino framework and is built with PlatformIO.
 
